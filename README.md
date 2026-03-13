@@ -1,2 +1,1 @@
-Please help me with the hierarchy issue in the Power BI report.
-Page 1 contains a sample of the expected output, and on Page 2 I tried to solve the hierarchy problem, but it still needs to be fixed.
+I’m currently facing an issue using an hierarchy in my Power BI report and would really appreciate your guidance. On **Page 1**, I have included a sample of the expected output. On **Page 2**, I attempted to resolve the hierarchy issue, but it still needs some correction.
