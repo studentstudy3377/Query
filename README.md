@@ -1,1 +1,0 @@
-I’m currently facing an issue using an hierarchy in my Power BI report and would really appreciate your guidance. On **Page 1**, I have included a sample of the expected output. On **Page 2**, I attempted to resolve the hierarchy issue, but it still needs some correction.
